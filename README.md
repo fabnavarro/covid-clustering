@@ -88,13 +88,6 @@ Load `Section2.R` to reproduce Figure 1.
 
 ``` r
 source("Section2.r")
-#> Loading required package: ggplot2
-#> Loading required package: zoo
-#> 
-#> Attaching package: 'zoo'
-#> The following objects are masked from 'package:base':
-#> 
-#>     as.Date, as.Date.numeric
 ```
 
 <img src="README_files/figure-markdown_github/unnamed-chunk-8-1.png" style="display: block; margin: auto;" />
@@ -107,7 +100,6 @@ in `resultsSection4_1.rda` and can be re-executed running
 
 ``` r
 source("Section4_1plot.r")
-#> Loading required package: forcats
 ```
 
 <img src="README_files/figure-markdown_github/unnamed-chunk-9-1.png" style="display: block; margin: auto;" />
