@@ -1,7 +1,7 @@
 # Translation-invariant functional clustering on COVID-19 deaths adjusted on population risk factors
 
 The codes in this allow to reproduce the simulations presented in Cheam
-et al. (2023).
+et al. (2023) https://hal.science/hal-03952739/.
 
 ## Installation
 
